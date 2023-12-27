@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bgcontainer {
+  background-image: url("https://wallpapers.com/images/hd/food-4k-1vrcb0mw76zcg4qf.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
