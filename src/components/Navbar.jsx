@@ -27,7 +27,7 @@ const Navbar = () => {
         </NavLink>
         <a
           className="hover:text-blue-800 transition ease-in-out delay-100 hover:scale-125"
-          href="https://fatih-aksoy-portfolio.netlify.app/"
+          href="https://fatih-dev-portfolio.netlify.app/"
           target="_blank"
         >
           PORTFOLIO
